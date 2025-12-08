@@ -22,7 +22,7 @@ KerbalSoaring is intended to be a simple and performant mod which is broadly com
 
 
 
-**Installation:** Requires but is not bundled with FAR >= v0.16.1.2 and soft-requires Waypoint Manager >= 2.8.4.7 to display the custom waypoints. Strongly recommends Kerbal Wind, KerbinSide, and FARGE, the ground effect plugin for FAR. Unpack the folder and paste the included GameData folder into your main KSP directory. Import custom waypoints by opening Waypoint Manager and 
+**Installation:** Requires but is not bundled with FAR >= v0.16.1.2 and soft-requires Waypoint Manager >= 2.8.4.7 to display the custom waypoints. Strongly recommends Kerbal Wind, KerbinSide, and FARGE, the ground effect plugin for FAR. Unpack the folder and paste the included GameData folder into your main KSP directory. Import custom waypoints "KerbinThermals" via Waypoint Manager.
 
 
 
