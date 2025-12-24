@@ -1,7 +1,7 @@
 {
     "NAME":"KerbalSoaring",
-    "URL":"https://www.zombo.com",
-    "DOWNLOAD":"https://zombo.com/",
+    "URL":"https://raw.githubusercontent.com/Zondulus/KerbalSoaring/refs/heads/main/KerbalSoaring.version",
+    "DOWNLOAD":"https://github.com/Zondulus/KerbalSoaring/releases/latest",
     "VERSION":
     {
         "MAJOR":8,
@@ -26,3 +26,4 @@
         "PATCH":69
     }
 }
+
